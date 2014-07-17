@@ -1,1 +1,2 @@
-이게 뭐지?
+# hello my friend
+# test line
